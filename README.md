@@ -1,0 +1,1 @@
+Dummy device tree for Xiaomi Mi 9T Pro/Redmi K20 Pro generated from V12.5.2.0.RFKMIXM (Global).
